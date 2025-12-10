@@ -136,9 +136,12 @@ int main() {
 
 ## OUTPUT
 
-<img width="671" height="439" alt="ex 06" src="https://github.com/user-attachments/assets/0e16b4c5-34ee-4ef3-a884-5f6718d37c4a" />
+<img width="644" height="214" alt="image" src="https://github.com/user-attachments/assets/daf4dcfe-b831-4ed4-8b9a-0a8771820785" />
 
-<img width="1032" height="717" alt="ex 006" src="https://github.com/user-attachments/assets/3e57156a-58a3-49d8-b217-d2dc690a8746" />
+<img width="773" height="659" alt="image" src="https://github.com/user-attachments/assets/25906b8e-77c6-43f0-9896-a24717dfaa14" />
+
+
+
 
 # RESULT:
 The program is executed successfully.
